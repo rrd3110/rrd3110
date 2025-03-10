@@ -1,7 +1,7 @@
-## 👋 Hey there! I'm [Your Name]
+## 👋 Hey there! I'm Rituraj Deb
 
-🚀 **AI Researcher | Full-Stack Developer | Hardware Enthusiast**  
-💡 Passionate about Deep Learning, Video Processing, Sign Language Recognition & Hardware Design
+🚀 **AI Enthusiast | Full-Stack Developer | Cloud Computing**  
+💡 Passionate about Software Development, Artificially Intelligent Systems and Blockchain
 
 ---
 
@@ -32,8 +32,8 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rrd3110&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrd3110&layout=compact&theme=radical)
 
 ---
 
