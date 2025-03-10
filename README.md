@@ -84,4 +84,4 @@ Hi there! 👋 I'm a passionate developer with experience in **deep learning, co
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rrd3110)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riturajdeb7@gmail.com)  
 
-🔗 **Website/Portfolio:** [yourwebsite.com](#)
+🔗 **Website/Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-B14759?style=for-the-badge&logo=portfolio&logoColor=white)](https://frolicking-puppy-0a4ba0.netlify.app/)
