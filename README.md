@@ -1,6 +1,6 @@
 # 📌 Rituraj Deb
 
-📧 [riturajdeb7@gmail.com](mailto:riturajdeb7@gmail.com) | 📱 +91 9862961096  
+Hi there! 👋 I'm a passionate developer with experience in **deep learning, computer vision, and full-stack development**. I specialize in **signal-processing, video processing, and AI-powered applications**. 
 
 ---
 
@@ -88,7 +88,6 @@
 ---
 
 💡 Feel free to explore my work and reach out for collaborations! 🚀
-
 
 
 ### 📫 Let's Connect:
